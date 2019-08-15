@@ -1,0 +1,19 @@
+#pravila{
+    position: absolute;
+    right: 39%;
+    top: 13%;
+    width: 450px;
+    height: 650px;
+}
+#forma{
+    position: absolute;
+    right: 50%;
+    left: 46%;
+    top: 64%;
+}
+#pocetak{
+    font-size: 24px;
+    border-radius: 8px;
+    background-color: chocolate;
+    color: white;
+}

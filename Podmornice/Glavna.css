@@ -1,0 +1,83 @@
+div#tabela {
+    position: relative;
+    width: 1024px;
+    height: 860px;
+    margin: auto;
+}
+h1#poruke {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: bold;
+    font-size: 50px;
+    color: indianred;
+}
+table {
+    position: absolute;
+    border-spacing: 0;
+    left: 172px;
+    top: 98px;
+    text-align: center;
+    font-size: 50px;
+}
+tr,td,table {
+    border: 3px solid cornflowerblue;
+    border-collapse: collapse;
+}
+td {
+    width: 70px;
+    height: 70px;
+}
+form {
+    position: absolute;
+    top: 25px;
+    right: 0;
+    padding: 10px;
+    z-index: 1;
+}
+form, input {
+    font-size: 20px;
+    border-radius: 8px;
+    border-color: red;
+}
+#unos{
+    margin-right: 5%;
+}
+#dugme{
+    background-color: indianred;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 24px;
+    color: white;
+    margin-top: 5px;
+}
+.hit {
+    background: red;
+    border-color: black;
+}
+.miss {
+    background-color: blue;
+    border-color: black;
+}
+.bez{
+    border-color: white;
+    border-bottom-color: cornflowerblue;
+}
+.bez1{
+     border-color: white;
+     border-right-color: cornflowerblue;
+ }
+#spisak{
+    color: white;
+}
+#podsetnik1{
+    position: absolute;
+    left: -20%;
+    top: 40%;
+}
+#podsetnik{
+    border-radius: 8px;
+    font-size: 16px;
+    background-color: cornflowerblue;
+    color: white;
+}

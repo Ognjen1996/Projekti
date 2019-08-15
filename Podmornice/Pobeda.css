@@ -1,0 +1,22 @@
+#pobeda{
+    color: white;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: center;
+    line-height: 700px;
+}
+body{
+    background-image: url(konfeti.jpg);
+    background-size: cover
+}
+
+.pocetak{
+    font-size: 40px;
+    border-radius: 8px;
+    background-color: whitesmoke;
+    color: black;
+}
+form{
+    padding: 10px;
+    text-align: center;
+}
